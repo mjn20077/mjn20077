@@ -1,16 +1,25 @@
-## Hi there 👋
+# Jonathan's Projects
 
-<!--
-**mjn20077/mjn20077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### E-commerce Website
+Repository: https://github.com/mjn20077/e-commerce_site  
+Description: Online clothing store website with product listing and shopping features.
+
+### Node.js Backend
+Repository: https://github.com/mjn20077/Nodejs  
+Description: Backend API built using Node.js.
+
+### APPEC System
+Repository: https://github.com/mjn20077/appec-system  
+Description: College management system.
+
+### APPEC N-Version
+Repository: https://github.com/mjn20077/appec-Nversion  
+Description: Alternative system version with additional features.
+
+### MJN Project
+Repository: https://github.com/mjn20077/mjn-project  
+Description: Personal development experiments.
